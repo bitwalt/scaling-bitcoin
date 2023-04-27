@@ -1,9 +1,14 @@
 # Scaling-Bitcoin
 
-Ho fatto queste slides per cercare di spiegare il problema della scalabilità di Bitcoin e Lightning Network ad un gruppo di studenti, nel primo ciclo BitGeneration (Feb-2023). 
+- **Scaling Bitcoin**
 
+  I made these slides to try to explain the Bitcoin and Lightning Network scalability problem to a group of students, in the first BitGeneration cycle (Feb-2023). 
+  
+  I upload the files here in case they might be useful to anyone in the future. 
 
-Carico qui i file nel caso possano servire a chiunque in futuro. 
+  These slides were reviewed by Giacomo Zucco.
 
+- **Lightning Network in 21'**
 
-Sono state revisionate da Giacomo Zucco.
+  Presentation made for the format called "21 minutes" of the italian bitcoin meetup Satoshi Spritz of Turin. 
+  The slides explore the differences between the various Lightning wallets and what variables to consider to make an informed choice
